@@ -1,0 +1,27 @@
+*
+{
+	color:skyblue;
+	font-family:Cooper Black;
+	font-style:solid;
+	text-align:center;
+	font-size:40px;
+	
+}
+img[title]
+{
+	border:5px solid #000
+}
+img[title="Desert"]
+{
+	border:10px solid #000
+}	
+
+img[title="Chrysanthemum"]
+{
+	border:15px solid #000
+}	
+
+img[title="Jellyfish"]
+{
+	border:25px solid #000
+}	
